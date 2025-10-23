@@ -13,5 +13,9 @@
 </p>
 
 ---
+<img src="./.github/Timeline.png">
+
+---
+
 > [!NOTE]
 > Issues and PRs are momentarily disabled as the community contribution is being evaluated.
