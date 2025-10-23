@@ -13,7 +13,10 @@
 </p>
 
 ---
+<details>
+<summary>Timeline</summary>
 <img src="./.github/Timeline.png">
+</details>
 
 ---
 
