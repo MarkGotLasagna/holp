@@ -1,5 +1,5 @@
 # History Of Linux (HOL)
-<center>
+<p align="center">
     <img src="./.github/HOL.png" width="150"> </br>
     <img src="https://img.shields.io/badge/License-CC%20BY%201.0-lightgrey.svg"> 
     <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg">
@@ -10,6 +10,6 @@
     History Of Linux (HOL) </br>
     a collaborative project created to illustrate how the Linux kernel came to be, </br>
     from its origins till today
-</center>
+</p>
 
 ---
