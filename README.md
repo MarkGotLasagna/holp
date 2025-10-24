@@ -1,7 +1,7 @@
 # History Of Linux Project
 <p align="center">
     <img src="./.github/HOLP-logo.png" width="150"> </br>
-    <img src="https://img.shields.io/badge/License-CC-BY-SA-4.0-lightgrey.svg">
+    <img src="https://img.shields.io/badge/License-CC%20BY%20SA%204.0-lightgrey.svg">
     <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg"> </br>
     <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg">
     <img src="https://img.shields.io/github/last-commit/MarkGotLasagna/hol">
