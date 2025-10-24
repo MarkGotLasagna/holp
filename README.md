@@ -28,7 +28,7 @@ is, today. Images placed above the timeline illustrate important figures,
 logos belonging to companies or organizations that helped directly or passively with the 
 creation of Linux.
 
-[⬇️ Click here](https://github.com/MarkGotLasagna/hol/releases/download/alpha/HOL_alpha.png) to download the latest timeline. 
+Visit the [releases page](https://github.com/MarkGotLasagna/holp/releases) to download the latest timeline. 
 
 ## Goals
 1. Illustrate how Linux came to be, from its birth till present day.
