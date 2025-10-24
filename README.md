@@ -14,6 +14,7 @@
 ---
 <details>
 <summary>Timeline (<i>click here to expand</i>)</summary>
+<br>
 <img src="./.github/Timeline.png">
 </details>
 
