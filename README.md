@@ -1,10 +1,9 @@
 # History Of Linux Project
 <p align="center">
-    <img src="./.github/HOLP-v1.png" width="150"> </br>
+    <img src="./resources/HOLP-v1.png" width="150"> </br>
     <img src="https://img.shields.io/badge/License-CC%20BY%20SA%204.0-lightgrey.svg">
     <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg"> </br>
     <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg">
-    <img src="https://img.shields.io/github/last-commit/MarkGotLasagna/hol">
     <img src="https://img.shields.io/github/v/release/MarkGotLasagna/hol?include_prereleases">
     </br>
     <i>how the Linux kernel came to be,</i> </br>
@@ -15,7 +14,7 @@
 <details>
 <summary>Timeline (<i>click here to expand</i>)</summary>
 <br>
-<img src="./.github/Timeline.png">
+<img src="./resources/Timeline.png">
 </details>
 
 ---
@@ -47,7 +46,7 @@ HOLP is an open-source project. As such, it welcomes volunteers to:
 - enhance accessibility and readability;
 - add translations.
 
-If you'd like to contribute to this project, please read the [contribution guidelines](https://github.com/MarkGotLasagna/holp/wiki/Contribution-guidelines) document first.</br>
+If you'd like to contribute to this project, please read the [contribution guidelines](https://github.com/MarkGotLasagna/holp/wiki/Contribution-guidelines) document first. (WIP)</br>
 All contributors will be credited below.
 
 ---
