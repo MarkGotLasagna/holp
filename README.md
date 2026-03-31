@@ -22,11 +22,13 @@
 ## What is HOLP
 __History Of Linux Project__ (HOLP) is an open-source initiative, and future 
 [cultural association](https://it.wikipedia.org/wiki/Associazionismo_culturale), aimed at illustrating the 
-history of Linux by using a timeline with colorful cards and images. Each card in the diagram 
+history of Linux and the open-source initiative, by using a timeline with colorful cards and images. Each card in the diagram 
 represents a core event in history that contributed to the creation of Linux and to what Linux 
 is, today. Images placed above the timeline illustrate important figures, 
 logos belonging to companies or organizations that helped directly or passively with the 
 creation of Linux.
+
+Visit the [Wikipedia article](https://en.wikipedia.org/wiki/History_of_Linux) from which this project takes inspiration from.
 
 Visit the [releases page](https://github.com/MarkGotLasagna/holp/releases) to download the latest version.
 
@@ -50,8 +52,9 @@ If you'd like to contribute to this project, please read the [contribution guide
 All contributors will be credited below.
 
 ---
-$$—\ Contributors\ —$$
-$$\small{\text{This section is currently empty.}}$$
+$$——\ Contributors\ ——$$
+$$\small{\text{—\ Reddit\ —}}$$
+u/MatchingTurret u/usbeehu u/ILikeBumblebees u/HCharlesB u/couchwarmer u/KokiriRapGod u/Jack_Lantern2000 u/bobj33 u/lev_lafayette u/corbet
 <!-- <a href="https://github.com/MarkGotLasagna/holp/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=MarkGotLasagna/holp" />
 </a> -->

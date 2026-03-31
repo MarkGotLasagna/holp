@@ -1,2 +1,3 @@
 # Ignore backup files from drawio
 *.bkp
+*.DS_Store
