@@ -48,11 +48,3 @@ HOLP is an open-source project. As such, it welcomes volunteers to:
 
 If you'd like to contribute to this project, please read the [contribution guidelines](https://github.com/MarkGotLasagna/holp/wiki/Contribution-guidelines) document first. (WIP)</br>
 All contributors will be credited below.
-
----
-$$——\ Contributors\ ——$$
-$$\small{\text{—\ Reddit\ —}}$$
-u/MatchingTurret u/usbeehu u/ILikeBumblebees u/HCharlesB u/couchwarmer u/KokiriRapGod u/Jack_Lantern2000 u/bobj33 u/lev_lafayette u/corbet
-<!-- <a href="https://github.com/MarkGotLasagna/holp/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=MarkGotLasagna/holp" />
-</a> -->
