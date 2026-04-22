@@ -27,8 +27,6 @@ creation of Linux.
 
 Visit the [Wikipedia article](https://en.wikipedia.org/wiki/History_of_Linux) from which this project takes inspiration from.
 
-Visit the [releases page](https://github.com/MarkGotLasagna/holp/releases) to download the latest version.
-
 Visit the [website](https://markgotlasagna.github.io/holp/) for an interactive version. (WIP)
 
 ## Goals
@@ -36,6 +34,15 @@ Visit the [website](https://markgotlasagna.github.io/holp/) for an interactive v
 2. Preserve the history of the Linux kernel's development.
 3. Be an academic resource for teaching Linux's history.
 4. Raise awareness of the open-source initiative.
+
+## Download
+To download the latest version of the timeline, please visit the [releases page](https://github.com/MarkGotLasagna/holp/releases). 
+For any version, click on the "Assets" drop-down menu and then click on the file you want to download. 
+The timeline will always be provided in both `drawio` and `png` formats.
+The `pdf` version is provided for major releases only.
+- The `Timeline.drawio` file contains the actual diagram that you may modify to your likes and needs.
+- The `Timeline.png` file contains the exported diagram in PNG format, usually at a 300ppi resolution.
+- The `Timeline.pdf` file contains the diagram in PDF format, for printing. (WIP)
 
 ## How to contribute
 HOLP is an open-source project. As such, it welcomes volunteers to:
