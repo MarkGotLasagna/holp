@@ -57,5 +57,5 @@ All external contributions will be credited below.
 
 ---
 - (LUGMan.org) [Associazione Culturale LUGMan](https://lugman.org/Pagina_principale)
-- (Reddit) History of Linux: a timeline ([pt.1](https://www.reddit.com/r/linux/comments/1oeclk9/history_of_linux_a_timeline_pt_1/))/([pt.2](https://www.reddit.com/r/linux/comments/1sfvpsn/history_of_linux_a_timeline_pt_2/))
+- (Reddit) [r/linux](https://www.reddit.com/r/linux/) - History of Linux: a timeline [pt.1](https://www.reddit.com/r/linux/comments/1oeclk9/history_of_linux_a_timeline_pt_1/)/[pt.2](https://www.reddit.com/r/linux/comments/1sfvpsn/history_of_linux_a_timeline_pt_2/)
 - (YouTube) [YouTux Channel](https://www.youtube.com/@YouTuxChannel) - [The history of LINUX in one picture](https://www.youtube.com/watch?v=_O7gn6sqJHA) 
