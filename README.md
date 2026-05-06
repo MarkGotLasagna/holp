@@ -53,4 +53,8 @@ HOLP is an open-source project. As such, it welcomes volunteers to:
 - add translations.
 
 If you'd like to contribute to this project, please read the [contribution guidelines](https://github.com/MarkGotLasagna/holp/wiki/Contribution-guidelines) document first. (WIP)</br>
-All contributors will be credited below.
+All external contributions will be credited below.
+
+---
+- (LUGMan.org) [Associazione Culturale LUGMan](https://lugman.org/Pagina_principale)
+- (YouTube) [YouTux Channel](https://www.youtube.com/@YouTuxChannel) - [The history of LINUX in one picture](https://www.youtube.com/watch?v=_O7gn6sqJHA) 
